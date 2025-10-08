@@ -1,0 +1,7 @@
+/Users/lauramenendez/az204webapp/publish/az204webapp
+/Users/lauramenendez/az204webapp/publish/appsettings.Development.json
+/Users/lauramenendez/az204webapp/publish/appsettings.json
+/Users/lauramenendez/az204webapp/publish/az204webapp.dll
+/Users/lauramenendez/az204webapp/publish/az204webapp.deps.json
+/Users/lauramenendez/az204webapp/publish/az204webapp.runtimeconfig.json
+/Users/lauramenendez/az204webapp/publish/az204webapp.pdb
